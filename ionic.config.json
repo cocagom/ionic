@@ -1,0 +1,8 @@
+{
+  "name": "myFirst",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "f203ca47"
+}
